@@ -79,10 +79,10 @@ You should branch your personal copy of the repo for the lab and then merge it i
 
 ### Tasks:
 
-- [ ]  Complete the [Galaxy Tutorial](1-Galaxy.md) using Salmon pseudoalignment
-- [ ]  Complete the [SARTools Tutorial](2-SARTools.md) using DESeq2 differential expression analysis
-- [ ]  Repeat the SARTools analysis incorporating batch correction
-- [ ]  Compare the results of the SARTools analysis at the gene and transcript level
+- [x]  Complete the [Galaxy Tutorial](1-Galaxy.md) using Salmon pseudoalignment
+- [x]  Complete the [SARTools Tutorial](2-SARTools.md) using DESeq2 differential expression analysis (SARTools (analysis without batch) and SARTools1(analysis with batch and between gene and transcript) are located in my personal repository)
+- [x]  Repeat the SARTools analysis incorporating batch correction
+- [x]  Compare the results of the SARTools analysis at the gene and transcript level
 - [ ]  Complete a different analysis pipeline and compare the results
 - [ ]  Collaborate to complete a report comparing the results from all analysis pipelines
 
